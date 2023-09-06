@@ -25,7 +25,7 @@ https://templatemo.com/tm-583-festava-live
   --body-font-family:             'Outfit', sans-serif;
 
   --h1-font-size:                 74px;
-  --h2-font-size:                 46px;
+  --h2-font-size:                 35px;
   --h3-font-size:                 32px;
   --h4-font-size:                 28px;
   --h5-font-size:                 24px;
@@ -1057,7 +1057,7 @@ COUNTER
   }
 
   h2 {
-    font-size: 28px;
+    font-size: 30px;
   }
 
   h3 {
@@ -1101,6 +1101,7 @@ COUNTER
   font-family: 'montserrat', sans-serif;
   font-weight: bold;
   text-transform: uppercase;
+  background-color: #111;
 }
 .card p, .card a {
   position: absolute;
